@@ -1,5 +1,5 @@
 # Claudio Ferraro
-Passionate full‑stack developer — PHP | JavaScript | Laravel | Magento 2 - building scalable e‑commerce, headless CMS and modern frontend experiences.
+Passionate full‑stack developer - PHP | JavaScript | Laravel | Magento 2 - building scalable e‑commerce, headless CMS and modern frontend experiences.
 
 ---
 
@@ -45,4 +45,4 @@ Interested in collaborating on e‑commerce projects, performance optimization, 
 ---
 
 ## 📌 How to use this README
-You can copy this README.md directly into your profile repository (claudio-ferraro/claudio-ferraro) or into any project repository. If you want, I can commit it for you — tell me the repository (owner/repo) and the branch to commit to, and I'll prepare a commit or pull request.
+You can copy this README.md directly into your profile repository (claudio-ferraro/claudio-ferraro) or into any project repository. If you want, I can commit it for you - tell me the repository (owner/repo) and the branch to commit to, and I'll prepare a commit or pull request.
