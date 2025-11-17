@@ -35,7 +35,6 @@ I'm Claudio, a developer with a strong focus on e‑commerce, modern PHP framewo
 [![GitHub Streak-Dark](https://nirzak-streak-stats.vercel.app?user=claudio-ferraro&theme=dark&short_numbers=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only)
 [![GitHub Streak-Light](https://nirzak-streak-stats.vercel.app?user=claudio-ferraro&short_numbers=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
 
-Top languages:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=claudio-ferraro&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact#gh-dark-mode-only)
 
 ---
