@@ -2,11 +2,6 @@
   <img src="./.github/assets/banner.svg" alt="Claudio Ferraro - Full-stack developer at JustBetter">
 </p>
 
-# Claudio Ferraro
-Full‑stack developer at JustBetter - PHP | Laravel | Magento 2 | AI - building large B2C and B2B e‑commerce, headless storefronts and AI‑driven applications.
-
----
-
 ## 🔭 About me
 I'm Claudio, a full‑stack developer at [JustBetter](https://justbetter.nl). My focus is e‑commerce: large, complex B2C and B2B webshops on Magento 2 and [Rapidez](https://rapidez.io) (the headless Magento frontend built with Laravel and Vue), integrated with ERP, CRM and Akeneo PIM. Alongside that I build Laravel applications and Statamic websites. JustBetter also maintains open‑source packages like [magento2-sentry](https://github.com/justbetter/magento2-sentry) (1.7M+ installs) and [laravel-magento-client](https://github.com/justbetter/laravel-magento-client).
 
@@ -46,39 +41,6 @@ AI is a big part of how I work. I develop with Claude and build AI into applicat
 
 ---
 
-## 📊 GitHub stats
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/0-profile-details.svg">
-    <img alt="Profile details and contributions" src="./profile-summary-card-output/github/0-profile-details.svg" width="98%">
-  </picture>
-</p>
-
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg">
-    <img alt="GitHub stats" src="./profile-summary-card-output/github/3-stats.svg" width="49%">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/2-most-commit-language.svg">
-    <img alt="Top languages by commits" src="./profile-summary-card-output/github/2-most-commit-language.svg" width="49%">
-  </picture>
-</p>
-
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/1-repos-per-language.svg">
-    <img alt="Top languages by repository" src="./profile-summary-card-output/github/1-repos-per-language.svg" width="49%">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/4-productive-time.svg">
-    <img alt="Productive time" src="./profile-summary-card-output/github/4-productive-time.svg" width="49%">
-  </picture>
-</p>
-
-[![GitHub Streak-Dark](https://streak-stats.demolab.com?user=claudio-ferraro&theme=dark&short_numbers=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only)
-[![GitHub Streak-Light](https://streak-stats.demolab.com?user=claudio-ferraro&short_numbers=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
-
 ## 🚀 Latest merged contributions
 <!-- ACTIVITY:START -->
 - [Added magento2-sentry V5 to requirements](https://github.com/justbetter/magento2-sentry-filter-events/pull/10) in `justbetter/magento2-sentry-filter-events`
@@ -93,6 +55,5 @@ AI is a big part of how I work. I develop with Claude and build AI into applicat
 ## 🤝 Get in touch
 [![Website](https://img.shields.io/badge/justbetter.nl-0a1a3a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://justbetter.nl)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudio-ferraro-2871a1b1/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/claudio-ferraro)
 
-Interested in collaborating on e‑commerce, Laravel or AI projects? Send a message - I'll get back to you.
+Interested in collaborating on e‑commerce, Laravel or AI projects? Connect with me on LinkedIn.
