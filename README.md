@@ -81,7 +81,11 @@ AI is a big part of how I work. I develop with Claude and build AI into applicat
 
 ## 🚀 Latest merged contributions
 <!-- ACTIVITY:START -->
-- Loading…
+- [Added magento2-sentry V5 to requirements](https://github.com/justbetter/magento2-sentry-filter-events/pull/10) in `justbetter/magento2-sentry-filter-events`
+- [Respect stock configuration and backorders when uncancelling an order](https://github.com/paynl/magento2-plugin/pull/250) in `paynl/magento2-plugin`
+- [[5.x] Added Mage-OS to the Playwright tests](https://github.com/rapidez/core/pull/1434) in `rapidez/core`
+- [Implement JustBetter_SentryLogrocket module](https://github.com/justbetter/magento2-sentry-logrocket/pull/1) in `justbetter/magento2-sentry-logrocket`
+- [Added Javascript issue grouping by controller action](https://github.com/justbetter/magento2-sentry/pull/251) in `justbetter/magento2-sentry`
 <!-- ACTIVITY:END -->
 
 ---
