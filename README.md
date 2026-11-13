@@ -92,6 +92,7 @@ AI is a big part of how I work. I develop with Claude and build AI into applicat
 
 ## 🤝 Get in touch
 [![Website](https://img.shields.io/badge/justbetter.nl-0a1a3a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://justbetter.nl)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudio-ferraro-2871a1b1/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/claudio-ferraro)
 
 Interested in collaborating on e‑commerce, Laravel or AI projects? Send a message - I'll get back to you.
