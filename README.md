@@ -43,13 +43,30 @@ AI is a big part of how I work. I develop with Claude and build AI into applicat
 ---
 
 ## 📊 GitHub stats
-[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=claudio-ferraro&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=claudio-ferraro&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg">
+    <img alt="GitHub stats" src="./profile-summary-card-output/github/3-stats.svg" width="49%">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/2-most-commit-language.svg">
+    <img alt="Top languages by commits" src="./profile-summary-card-output/github/2-most-commit-language.svg" width="49%">
+  </picture>
+</p>
 
-[![GitHub Streak-Dark](https://nirzak-streak-stats.vercel.app?user=claudio-ferraro&theme=dark&short_numbers=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only)
-[![GitHub Streak-Light](https://nirzak-streak-stats.vercel.app?user=claudio-ferraro&short_numbers=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/1-repos-per-language.svg">
+    <img alt="Top languages by repository" src="./profile-summary-card-output/github/1-repos-per-language.svg" width="49%">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/4-productive-time.svg">
+    <img alt="Productive time" src="./profile-summary-card-output/github/4-productive-time.svg" width="49%">
+  </picture>
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=claudio-ferraro&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact#gh-dark-mode-only)
+[![GitHub Streak-Dark](https://streak-stats.demolab.com?user=claudio-ferraro&theme=dark&short_numbers=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only)
+[![GitHub Streak-Light](https://streak-stats.demolab.com?user=claudio-ferraro&short_numbers=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
 
 ---
 
