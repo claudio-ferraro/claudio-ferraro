@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./.github/assets/banner.svg" alt="Claudio Ferraro - Full-stack developer at JustBetter">
+</p>
+
 # Claudio Ferraro
 Full‑stack developer at JustBetter - PHP | Laravel | Magento 2 | AI - building large B2C and B2B e‑commerce, headless storefronts and AI‑driven applications.
 
@@ -45,6 +49,13 @@ AI is a big part of how I work. I develop with Claude and build AI into applicat
 ## 📊 GitHub stats
 <p>
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/0-profile-details.svg">
+    <img alt="Profile details and contributions" src="./profile-summary-card-output/github/0-profile-details.svg" width="98%">
+  </picture>
+</p>
+
+<p>
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg">
     <img alt="GitHub stats" src="./profile-summary-card-output/github/3-stats.svg" width="49%">
   </picture>
@@ -68,6 +79,15 @@ AI is a big part of how I work. I develop with Claude and build AI into applicat
 [![GitHub Streak-Dark](https://streak-stats.demolab.com?user=claudio-ferraro&theme=dark&short_numbers=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only)
 [![GitHub Streak-Light](https://streak-stats.demolab.com?user=claudio-ferraro&short_numbers=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
 
+## 🚀 Latest merged contributions
+<!-- ACTIVITY:START -->
+- Loading…
+<!-- ACTIVITY:END -->
+
 ---
+
+## 🤝 Get in touch
+[![Website](https://img.shields.io/badge/justbetter.nl-0a1a3a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://justbetter.nl)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/claudio-ferraro)
 
 Interested in collaborating on e‑commerce, Laravel or AI projects? Send a message - I'll get back to you.

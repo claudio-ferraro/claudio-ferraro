@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260" role="img" aria-label="Claudio Ferraro - Full-stack developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#1e1b4b"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f46f25"/>
+      <stop offset="0.5" stop-color="#ff2d20"/>
+      <stop offset="1" stop-color="#d97757"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="260" rx="16" fill="url(#bg)"/>
+  <rect x="60" y="176" width="140" height="5" rx="2.5" fill="url(#accent)"/>
+  <text x="60" y="110" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="58" font-weight="700" fill="#ffffff">Claudio Ferraro</text>
+  <text x="60" y="152" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="24" fill="#cbd5e1">Full-stack developer at JustBetter</text>
+  <text x="60" y="222" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="18" fill="#94a3b8">PHP · Laravel · Magento 2 · Rapidez · AI</text>
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="150" font-weight="700" fill="#ffffff" fill-opacity="0.08">
+    <text x="860" y="170">&lt;/&gt;</text>
+  </g>
+</svg>
